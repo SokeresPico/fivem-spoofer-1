@@ -34,7 +34,7 @@ echo               [31m███████║╚██████╗██�
 echo               [31m╚══════╝ ╚═════╝╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝[0m    [34m╚══════╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝[0m
 echo.
 echo.
-echo                                                    Leaked by 2lay :3
+echo                                                    Created by MoneySeven 
 echo.
 echo.
 echo                                    [31m1[0m - [32mCLEAN CACHE[0m                       [31m2[0m - [32mSPOOFER[0m
